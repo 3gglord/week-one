@@ -1,0 +1,1 @@
+- the process of getting started was interesting, and I find myself getting overwhelmed
