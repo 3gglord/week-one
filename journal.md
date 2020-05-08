@@ -4,4 +4,5 @@
 - I forgot to screenshot the error message, but I made a mistake trying to open the Zotero app on my desktop because I tried to do it thorugh the installer rather then the application page. But the error message told me what I had to do to open the app, so I didn't have to google my mistake
 - going slowly and reading error messages to fix a problem is working 
 - I find that I have trouble asking for help, so if I encounter more problems I should actively try to ask for help on the Discord chat before giving up or digging myself a bigger hole
+- Couldn't figure out what to do for the demo help request activity but going on the week one Discord text channel and seeing what others have asked clarified things for me and I think I did the activity correctly
 - failures I might have encountered this week...
