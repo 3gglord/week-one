@@ -19,14 +19,17 @@ Setting up Hypothesis
 - created annotations and joined the class reading group
 - have not made any annotations on articles/webpages yet
 - downloaded the Chrome extension
+- could be useful for future classes to make notes directly on a reading
 
 Setting up Zotero
 - relatively easy; no issues to download the application on my MacBook
 - used the UCLA Library tutorial to get started
 - downloaded the Chrome extension
 - saved first two class readings onto Zotero using the Chrome extension with the application running
+- will be very useful for keeping track of sources in the future, the auto-citation feature will be especially convenient
 
 Setting up Discord
 - I have used discord before to chat with friends and play games, so I am familiar with the platform
 - introduced myself to class
 - continue to keep up with class discussion 
+- way to reach out to peers and ask for help instead of waiting on emails
