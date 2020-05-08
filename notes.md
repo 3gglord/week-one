@@ -12,9 +12,9 @@
 - did the Github introduction tutorial https://guides.github.com/activities/hello-world/
 - tutorial helpful to familiarize myself with terms and actions, helped to build confidence to try new things like creating a branch, merging, and deleting things
 - option to create a website? haven't tried
-- add a link with square brackets like this [google](google.com)
+- add a link with square brackets like this: [google](google.com)
 - ! to add an image that has been uploaded to github
-- consult this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for formatting 
+- **consult this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for formatting**
 - getting used to new terms will require continued use and practice 
 
 ## Setting up Hypothesis
