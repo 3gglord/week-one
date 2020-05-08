@@ -1,3 +1,4 @@
+# Week One Journal
 - the process of getting started was interesting, and I find myself getting overwhelmed, especially because of all the new terms
 - I would not consider myself bad with tech, but at this point, I feel a bit in over my head
 - I forgot to screenshot the error message, but I made a mistake trying to open the Zotero app on my desktop because I tried to do it thorugh the installer rather then the application page. But the error message told me what I had to do to open the app, so I didn't have to google my mistake
