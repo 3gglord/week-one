@@ -5,4 +5,7 @@
 - going slowly and reading error messages to fix a problem is working 
 - I find that I have trouble asking for help, so if I encounter more problems I should actively try to ask for help on the Discord chat before giving up or digging myself a bigger hole
 - Couldn't figure out what to do for the demo help request activity but going on the week one Discord text channel and seeing what others have asked clarified things for me and I think I did the activity correctly
-- failures I might have encountered this week...
+- failures I might have encountered this week would be human failures, like when I did not properly open Zotero after installation
+- the demo help request activity might be considered failure as artifact, because after failing to commit my repo, I now know how to ask find out what's going on and how to ask for help if I can't find ways to fix it
+- recording failures in notes and journal pages will help me in the future in case I encounter the same problems
+- openly reflecting on failures so I can change my process next time to do it better, learning as I fail
